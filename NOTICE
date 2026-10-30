@@ -1,0 +1,16 @@
+Notion 3D Themes
+Copyright (c) 2026 cmerber. Theme and starter customizations.
+
+Based on NotionNext: https://github.com/notionnext-org/NotionNext
+Copyright (c) 2021-present, tangly1024 and contributors.
+The upstream MIT license is retained in LICENSE.
+
+Source snapshot for the released 3D themes:
+https://github.com/cmerber/NotionNext/commit/aa84c33b8cf05970fe797604fc3bb647335b4449
+
+Supporting NotionNext modules remain for compatibility, while the theme gallery
+exposes Orange and Island. Optional integrations are unconfigured. Local sample
+content is newly written and does not include the author's articles or tokens.
+
+Bundled third-party assets retain their original licenses in public/vendor.
+Dependencies retain their respective licenses.
